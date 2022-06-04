@@ -1,0 +1,85 @@
+													TOSCA AS2
+=================================================================================================================================================================
+►5 July 2021 
+○ Automation Specialist Level 2 Exercise 1 v1.0
+	TEMPLATES
+		Exercise 1 – Create Login Data TestSheet
+
+○ Automation Specialist Level 2 Exercise 2 v1.0
+	TEMPLATES
+		Exercise 2a – Log In Process
+		Exercise 2b - Resolve Reference
+		Exercise 2c - Convert to Template		
+○ Automation Specialist Level 2 Exercise 3 v1.0
+	Templates
+		Exercise 3a - Link Template and Values
+		Exercise 3b - Instantiation
+♦template is advanced version of TC along with test data 
+♦In Instances-  tosca can not copy same instance ,after paste it will create new instances
+
+( Test Design Specialist Level 1 --> enrolled for this and perform 1 2 3 4 lesson by making different workspace)
+Email
+tanvi@example1.test
+tanvi@example2.test
+tanvi@example3.test
+
+Password
+Tosca123!
+Tosca1234!
+Tosca12345!
+=================================================================================================================================================================
+►6 July 2021 
+Automation Specialist Level 2 Exercise 4 v2.0
+Automation Specialist Level 2 Exercise 5 v1.0
+=================================================================================================================================================================
+►7 July 2021
+Exercise 6a – Link TemplateInstances to a RequirementSet
+
+Exercise 7a – Build Template & Link Values
+
+Template step
+1.Build template
+2.link test sheet to template (by dragging test sheet to template)
+3.check whether correct template mapped (ctrl + j on templ/property OF TEMPLATE/right click jump to test sheet/FROM RIBBON MENUE jump to shema defination)
+4.link attribute to test step value by drag drop from testsheet / {XL[attribute.subattribute]}
+5.Apply conditions (add condition column by column chooser)-by drag drop attribute instance in condition column  or by typing manually
+6.Check template -->right click on template
+7.Instantiate template -->by right click on template -->click on triple .../ellipse -->click on create templateinstance
+=================================================================================================================================================================
+►8 July 2021
+Exercise 7b – Link Values
+Exercise 7c – Set Conditions & Instantiation
+
+[({B[SubTotal]}+{B[Shipping]})*{XL[Verifications.Value - Discount %]}]}
+
+{MATH[({B[SubTotal]}+{B[Shipping]})*{XL[Verifications.Value - Discount %]}]}
+
+=================================================================================================================================================================
+►9 July 2021
+SKU -stock keeping unit (pruduct)
+
+Exercise 8a – API TestCases
+Exercise 8b – Convert to Template, Link Values and Instantiate
+=================================================================================================================================================================
+
+►salseforce + tosca (youtube )
+
+►https://tricentis.teachable.com/  -->sequence to do practice
+grand scenario
+TDS1
+AS2
+AS1
+TDS2
+AE1
+API,DATABASE testing,tosca pql
+
+►Preperation for interview
+1.tell me about your self (add tosca related) -->opening question in interview
+2.what are the challanges you have faced in Tosca  --> closing question in interview
+
+
+
+
+
+
+
