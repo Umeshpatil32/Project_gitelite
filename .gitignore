@@ -1,0 +1,4 @@
+.temp.txt
+*.log
+.abc.txt
+.abc*.txt
